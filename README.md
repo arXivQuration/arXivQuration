@@ -10,7 +10,7 @@ repository to share the quantum information articles
 詳しい手順やルールは今のところ定まっていませんが、[arXivTimes](https://github.com/arXivTimes/arXivTimes)さんの[Issues](https://github.com/arXivTimes/arXivTimes/issues)と同様に、要約をIssuesに書いてください。
 
 # Issuesのテンプレ
-arXivTimesさんのパクリです。
+arXivTimesさんのパクリです。全部書かなくても「一言でいうと」「論文リンク」「著者/所属機関」「投稿日付」が書かれていればOKです。
 
 ```
 ## 一言でいうと
