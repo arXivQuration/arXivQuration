@@ -6,7 +6,7 @@ repository to share the quantum information articles
 量子情報に関するarXivの要約をIssuesにまとめていく感じです。
 
 # How to contribute
-参加者大募集です。管理人自身、そんなに量子情報に詳しくなく、大量に論文読んでるわけでもないので、参加してくださる方はいつでも歓迎します。
+参加者大募集です。管理人自身そんなに量子情報に詳しくなく、大量に論文読んでるわけでもないので、一人じゃやっていけません。ぜひ手伝って下さい。
 詳しい手順やルールは今のところ定まっていませんが、[arXivTimes](https://github.com/arXivTimes/arXivTimes)さんの[Issues](https://github.com/arXivTimes/arXivTimes/issues)と同様に、要約をIssuesに書いてください。
 
 # Issuesのテンプレ
