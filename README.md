@@ -11,7 +11,7 @@ repository to share the quantum information & quantum computer articles
 
 論文のまとめを投稿する際は、以下の要領でお願いいたします。
 
-* 登録したい論文は、Issueに登録を行ってください。
+* 登録したい論文は、Issueに登録を行ってください。リンクは[こちら](https://github.com/arXivQuration/arXivQuration/issues/new?assignees=&labels=&template=Article-Template.md&title=)。
 * Issueのタイトルを論文とし、内容はIssue Templateに従ってください。登録時必須なのは以下点のみです
   * 一言でいうと
   * 論文リンク
