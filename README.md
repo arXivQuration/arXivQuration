@@ -5,6 +5,9 @@ repository to share the quantum information & quantum computer articles
 - [要約一覧を見る](https://github.com/arXivQuration/arXivQuration/issues)
 
 # arXivQurationについて
+
+<img src="icon.png" width="100" height="100">
+
 [arXivTimes](https://github.com/arXivTimes/arXivTimes)さんの量子情報・量子コンピュータ版を作りたくて、コンセプトを勝手にパクりました。
 量子情報や量子コンピュータに関するarXivの要約をIssuesにまとめていく感じです。
 
